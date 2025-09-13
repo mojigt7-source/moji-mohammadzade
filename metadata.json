@@ -1,0 +1,5 @@
+{
+  "name": "IG Caption Assistant",
+  "description": "An intelligent assistant to help Instagram creators generate high-quality, engaging captions for their posts using AI. Analyze post content and generate multiple caption variants with customizable tone, length, and style.",
+  "requestFramePermissions": []
+}
